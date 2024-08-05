@@ -1,12 +1,10 @@
-# 👋 Hi, I’m @gashu-101
+# 👋 Hi, I’m Gahshu
 
-- 👀 I’m interested in **Artificial Intelligence, Web Development, and Open Source Projects**.
+- 👀 I’m interested in **Artificial Intelligence, Automation, and Web Development**.
 - 🌱 I’m currently learning **advanced Python programming and machine learning algorithms**.
 - 💞️ I’m looking to collaborate on **innovative AI projects and cutting-edge web applications**.
 - 📫 How to reach me: 
     [www.linkedin.com/in/gashahun](https://www.linkedin.com/in/gashahun)
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I can code in multiple languages but still find myself learning something new every day!**
 
 ## About Me
 
